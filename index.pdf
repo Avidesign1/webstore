@@ -64,7 +64,7 @@
 
 
 
-        <ul class="style">
+        <ul class="mainmenu">
           <li><a href="#">Cool collection</a>
             <ul>
               <li><a href="#">Trend</a></li>
@@ -85,11 +85,11 @@
       
       <div class="row">
         <div class="column">
-          <img src="img/top1.jpg" alt="cool tee" style="width:100%">
+          <img src="img/top1.jpg" alt="Snow" style="width:100%">
           <h2> $78</h2>
           
           <p><button class="button">BUY</button></p>
-          <h2> Cool T-shirt for girls</h2>
+          <h2> Cool top and pant</h2>
           
   
 <i class="material-icons">
@@ -115,11 +115,11 @@ grade
   <!-- Product 2 -->
   <div class="row">
     <div class="column">
-      <img src="img/cool.jpg" alt="Cool tshirt" style="width:100%">
-      <h2> $68</h2>
+      <img src="img/top1.jpg" alt="Snow" style="width:100%">
+      <h2> $78</h2>
 
       <p><button class="button">BUY</button></p>
-      <h2> T-shirt for Kids</h2>
+      <h2> Cool top and pant</h2>
       
 
 <i class="material-icons">
@@ -132,11 +132,11 @@ grade
 <!-- Product 3 -->
 <div class="row">
   <div class="column">
-    <img src="img/top6.jpg" alt="Teen tshirt" style="width:100%">
+    <img src="img/top6.jpg" alt="Snow" style="width:100%">
     <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Nice Teen tshirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -149,11 +149,11 @@ grade
 <!-- Product 4 -->
 <div class="row">
   <div class="column">
-    <img src="img/tshirt.jpg" alt="Sweater" style="width:100%">
-    <h2> $98</h2>
+    <img src="img/tshirt.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Stylish Sweater</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -166,11 +166,11 @@ grade
 <!-- Product 5 -->
 <div class="row">
   <div class="column">
-    <img src="img/tshirt1.jpg" alt="cool sweater" style="width:100%">
+    <img src="img/tshirt1.jpg" alt="Snow" style="width:100%">
     <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Cool Sweater</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -183,11 +183,11 @@ grade
 <!-- Product 6 -->
 <div class="row">
   <div class="column">
-    <img src="img/tshirt3.jpg" alt="Kids tee" style="width:100%">
-    <h2> $87</h2>
+    <img src="img/tshirt3.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Black tee for kids</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -200,11 +200,11 @@ grade
 <!-- Product 7 -->
 <div class="row">
   <div class="column">
-    <img src="img/tshirt4.jpg" alt="kids tshirt" style="width:100%">
-    <h2> $70</h2>
+    <img src="img/tshirt4.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> T-shirt for kids</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -218,11 +218,11 @@ grade
 <!-- Product 8 -->
 <div class="row">
   <div class="column">
-    <img src="img/cool1.jpg" alt="Baby tshirt" style="width:100%">
-    <h2> $50</h2>
+    <img src="img/top1.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2>T-shirt for baby</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -235,11 +235,11 @@ grade
 <!-- Product 9 -->
 <div class="row">
   <div class="column">
-    <img src="img/tshirt6.jpg" alt="Quote tshirt" style="width:100%">
-    <h2> $92</h2>
+    <img src="img/tshirt6.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Quote T-shirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -253,11 +253,11 @@ grade
 <!-- Product 10 -->
 <div class="row">
   <div class="column">
-    <img src="img/tshirt7.jpg" alt="Baby tshirt" style="width:100%">
-    <h2> $89</h2>
+    <img src="img/tshirt7.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Wonderful T-shirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -271,11 +271,11 @@ grade
 <!-- Product 11 -->
 <div class="row">
   <div class="column">
-    <img src="img/tshirt8.jpg" alt="Disnet tshirt" style="width:100%">
-    <h2> $87</h2>
+    <img src="img/tshirt8.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2>Disney T-shirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -289,11 +289,11 @@ grade
 <!-- Product 12 -->
 <div class="row">
   <div class="column">
-    <img src="img/cool2.jpg" alt="Smile tshirt" style="width:100%">
-    <h2> $59</h2>
+    <img src="img/Pant1.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Smile T-shirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -307,11 +307,11 @@ grade
 <!-- Product 13 -->
 <div class="row">
   <div class="column">
-    <img src="img/girl tshirt.jpg" alt="Dab tshirt" style="width:100%">
+    <img src="img/Black pant.jpg" alt="Snow" style="width:100%">
     <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Cool Dab T-shirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -322,17 +322,14 @@ grade
 </div>
 
 
-
-
-
-<!-- Product 14-->
+<!-- Product 14 -->
 <div class="row">
   <div class="column">
-    <img src="img/jacket.jpg" alt="Black jacket" style="width:100%">
-    <h2> $98</h2>
+    <img src="img/Blue jeans.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Black Jacket</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -343,14 +340,14 @@ grade
 </div>
 
 
-<!-- Product 15 -->
+<!-- Product 15-->
 <div class="row">
   <div class="column">
-    <img src="img/box.jpg" alt="box tshirt" style="width:100%">
-    <h2> $62</h2>
+    <img src="img/jacket.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Cool Box T-shirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -364,11 +361,11 @@ grade
 <!-- Product 16 -->
 <div class="row">
   <div class="column">
-    <img src="img/tee.jpg" alt="Kids fun tshirt" style="width:100%">
-    <h2> $58</h2>
+    <img src="img/top1jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Kids fun T-shirt</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -382,11 +379,11 @@ grade
 <!-- Product 17 -->
 <div class="row">
   <div class="column">
-    <img src="img/Shoes.jpg" alt="Louis vitton shoes" style="width:100%">
-    <h2> $99</h2>
+    <img src="img/Jacket3.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Louis Vitton shoes</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -400,12 +397,11 @@ grade
 <!-- Product 18 -->
 <div class="row">
   <div class="column">
-    <img src="img/Sunglass.jpg" alt="Rayban Sunglass
-    " style="width:100%">
-    <h2> $120</h2>
+    <img src="img/Shoes.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Rayban Sunglasses</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -415,14 +411,32 @@ grade
 <p class="card"><button>Add to Cart</button></p>
 </div>
 
+
 <!-- Product 19 -->
 <div class="row">
   <div class="column">
-    <img src="img/sneakers.jpg" alt="Cool Sneakers" style="width:100%">
-    <h2> $189</h2>
+    <img src="img/Sunglass.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Cool Sneakers</h2>
+    <h2> Cool top and pant</h2>
+    
+
+<i class="material-icons">
+grade
+</i>
+
+<p class="card"><button>Add to Cart</button></p>
+</div>
+
+<!-- Product 20 -->
+<div class="row">
+  <div class="column">
+    <img src="img/sneakers.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
+
+    <p><button class="button">BUY</button></p>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -436,32 +450,11 @@ grade
 <!-- Product 20 -->
 <div class="row">
   <div class="column">
-    <img src="img/hand.jpg" alt="Tshirt" style="width:100%">
-    <h2> $68</h2>
-
-    <p><button class="button">BUY</button></p>
-    <h2> Cool Box T-shirt</h2>
-    
-
-<i class="material-icons">
-grade
-</i>
-
-<p class="card"><button>Add to Cart</button></p>
-</div>
-
-
-
-
-<!-- Product 21 -->
-<div class="row">
-  <div class="column">
-    <img src="img/pant1.jpg" alt="Pant" style="width:100%">
-
+    <img src="img/top1.jpg" alt="Snow" style="width:100%">
     <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Cool Black Pant</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -474,16 +467,14 @@ grade
 
 
 
-
-
-<!-- Product 22 -->
+<!-- Product 20 -->
 <div class="row">
   <div class="column">
-    <img src="img/pant.jpg" alt="Black Jeans" style="width:100%">
-    <h2> $98</h2>
+    <img src="img/top1.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
-    <h2> Cool Black Jeans</h2>
+    <h2> Cool top and pant</h2>
     
 
 <i class="material-icons">
@@ -494,41 +485,52 @@ grade
 </div>
 
 
+<!-- Product 20 -->
+<div class="row">
+  <div class="column">
+    <img src="img/top1.jpg" alt="Snow" style="width:100%">
+    <h2> $78</h2>
 
-<!-- Footer -->
+    <p><button class="button">BUY</button></p>
+    <h2> Cool top and pant</h2>
+    
 
+<i class="material-icons">
+grade
+</i>
 
-<div class="footer">
-  
-
-
-
-
-  <p class="footer"></p>
-				
-				<p> &copy;2019 by Avijit Saha</p>
-				<p>For more information and other stuff related to the website or brand follow us on:</p>
-
-				<ul>
-					<li class=links><a href="#">Terms of Use</a></li>
-					<li class=links><a href="#">Privacy Policy</a></li>
-					<li class=links><a href="#">Accessibility Policy</a></li>
-				</ul>
-
-
-				<p>&copy; 2019 LESSO CLOTHING, Inc. ALL RIGHTS RESERVED.</p>
-
-				<ul>
-
-					<li><a href="http://www.facebook.com"> <img src='img/facebook.jpg'></a></li>
-					<li><a href="http://www.instagram.com"><img src='img/instagram.jpg'></a></li>
-					<li><a href="http://www.twitter.com"><img src='img/twitter.jpg'></a></li>
-
-				</ul>
-		</footer>
-
+<p class="card"><button>Add to Cart</button></p>
 </div>
 
+<!-- Footer -->
+<footer class=" footer">
+
+  <ul>
+    <li class=links><a href="#">Terms of Use</a></li>
+    <li class=links><a href="#">Privacy Policy</a></li>
+    <li class=links><a href="#">Accessibility Policy</a></li>
+  </ul>
+
+
+  <p>For more information and other stuff related to the website or brand follow us on:</p>
+
+  <ul>
+
+    <li><a href="http://www.facebook.com"> <img src='img/facebook.jpg'></a></li>
+    <li><a href="http://www.instagram.com"><img src='img/instagram.jpg'></a></li>
+    <li><a href="http://www.twitter.com"><img src='img/twitter.jpg'></a></li>
+
+  </ul>
+       
+
+  <!-- Copyright -->
+  <div class="footer-copyright">© 2019 Copyright by Avijit
+    <p>Lesso clothing Inc Reserved.Co</p>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
 
 
 
