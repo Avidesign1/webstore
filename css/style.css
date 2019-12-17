@@ -226,8 +226,63 @@ body{
       grid-template-columns: 1fr 1fr 1fr;
  
     }
-  
-  
+    
+
+    .courses {
+      display: grid;
+      grid-gap: 1em;
+      
+    }
+    
+    .btn-view {
+      display: none;
+    }
+    
+
+    .cart {
+      font: 1em helvetica, sans-serif;
+      background-color: #ccc;
+      color: #1b1b1b;
+      width: 3em;
+      height: 3em;
+      padding: 0.375em 0;
+      text-align: center;
+      border: 0.125em solid #ddd;
+      border-radius: 1.5em;
+      position: relative;
+    }
+    .cart img {
+      height: 2em;
+    }
+    .num {
+      background-color: gold;
+      padding: 0.125em;
+      border-radius: 0.5em;
+      display: inline-block;
+      position: absolute;
+      bottom: -0.25em;
+      left: -0.25em;
+    }
+
+
+
+
+
+    .callout {
+      display: inline-block;
+      padding: 0.25em 0.5em;
+      border-radius: 0.25em;
+      background-color: grey;
+      color: white;
+      box-shadow: 0 0 0.5em rgba(0,0,0,0.4);
+      text-shadow: 0.125em 0.125em 0 rgba(0,0,0,0.4);
+    }
+    .urgent {
+      background-color: crimson;
+    }
+
+
+
 
     @media screen and (max-width: 500px) {
       .column {
@@ -235,9 +290,9 @@ body{
       }
     }
     
-      
     
-
+    
+   
 
 
 

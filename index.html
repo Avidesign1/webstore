@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
+    
   </head>
   <body>
     <!-- 
@@ -58,28 +59,50 @@
             <a href="#">Jeans</a>
           </div>
         </div>
+       
 
+        <button onclick="websiteSurprise()">Click here for surprise</button>
 
-
-
-
+        <p id="surprise"></p>
 
         <ul class="style">
           <li><a href="#">Cool collection</a>
-            <ul>
-              <li><a href="#">Trend</a></li>
-              <li><a href="#">Kids choice</a></li>
-              
+          <li><a href="#">Trend</a></li>
+          <li><a href="#">Kids choice</a></li>
           <li><a href="#">Mens choice</a></li>
           <li><a href="#">Womens choice</a></li>
-         
-        </ul>
+         </ul>
 
         
       </nav>
-
+<main>
       <h2 class="main">New collection</h2>
 
+      <label for="courseCategory">Selection:</label>
+
+      <select name="courseCategory" id="courseCategory">
+        <option value="all">All Category</option>
+        <option value="tshirt">Tshirt</option>
+        <option value="jeans">Jeans</option>
+        <option value="sweater">Sweater</option>
+        <option value="sunglasses">Sunglasses</option>
+        <option value="shoes">Shoes</option>
+
+
+      </select>
+
+      <label for="courseName">Product Name:</label>
+      
+      <input type="text" name="courseName" id="courseName" value="">
+      <button>Go</button>
+
+      
+
+      <button id="toggleView" class="btn-view">Toggle View</button>
+      <section id="courses" class="courses"></section>
+      
+    </main>
+  
 
       <!-- Product 1 -->
       
@@ -99,23 +122,29 @@ grade
 <p class="card"><button>Add to Cart</button></p>
 </div>
 
-       
+<p id="add"></p>
+
+
+<button type="button" onclick="document.getElementById('demo').innerHTML = 'Congrats you have earned a discount!'">Click for deals!</button>
+<p id="demo"></p> 
+
 
        
+
         
 
 
      
   
   
-  <script src="js/index.js"></script>
+  
 
 
 
   <!-- Product 2 -->
   <div class="row">
     <div class="column">
-      <img src="img/cool.jpg" alt="Cool tshirt" style="width:100%">
+      <img id="myImg" src="img/cool.jpg" alt="Cool tshirt" style="width:100%">
       <h2> $68</h2>
 
       <p><button class="button">BUY</button></p>
@@ -129,10 +158,13 @@ grade
 <p class="card"><button>Add to Cart</button></p>
 </div>
 
+
+
+
 <!-- Product 3 -->
 <div class="row">
   <div class="column">
-    <img src="img/top6.jpg" alt="Teen tshirt" style="width:100%">
+    <img id= myImg src="img/top6.jpg" alt="Teen tshirt" style="width:100%">
     <h2> $78</h2>
 
     <p><button class="button">BUY</button></p>
@@ -142,6 +174,13 @@ grade
 <i class="material-icons">
 grade
 </i>
+
+
+<p>Click the button to get the URL of the image.</p>
+
+<button onclick="myFunction()">Try it</button>
+<p id="list"></p>
+
 
 <p class="card"><button>Add to Cart</button></p>
 </div>
@@ -189,6 +228,17 @@ grade
     <p><button class="button">BUY</button></p>
     <h2> Black tee for kids</h2>
     
+    <button class="cart">
+      <img src="img/cart.png" alt="Cart Icon">
+      <div class="num" id="cartNum"></div>
+    </button>
+
+    <button id="addOne">Add 1 to Cart</button>
+
+
+
+
+
 
 <i class="material-icons">
 grade
@@ -530,7 +580,7 @@ grade
 </div>
 
 
-
+<script src="js/index.js"></script>
 
 </body>
 
